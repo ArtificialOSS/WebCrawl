@@ -20,6 +20,7 @@
     "https://get-animes.com/",
     "https://dmca.online/",
     "https://comeso.org/en/company",
+    
     "https://www.w3schools.com/",
     "https://www.w3schools.com/html/default.asp",
     "https://www.w3schools.com/html/html_intro.asp",
@@ -166,6 +167,7 @@
     "https://www.w3schools.com/tags/tag_head.asp",
     "https://www.w3schools.com/tags/tag_header.asp",
     "https://www.w3schools.com/tags/tag_hr.asp",
+    
     "https://www.w3schools.com/sql/",
     "https://www.w3schools.com/sql/default.asp",
     "https://www.w3schools.com/sql/sql_intro.asp",
@@ -530,6 +532,7 @@
     "https://www.w3schools.com/sql/func_sqlserver_system_user.asp",
     "https://www.w3schools.com/sql/func_sqlserver_user_name.asp",
     "https://www.w3schools.com/sql/sql_quickref.asp",
+    
     "https://www.w3schools.com/python/default.asp",
     "https://www.w3schools.com/python/python_intro.asp",
     "https://www.w3schools.com/python/python_getstarted.asp",
@@ -661,6 +664,7 @@
     "https://www.w3schools.com/python/numpy/numpy_ufunc_trigonometric.asp",
     "https://www.w3schools.com/python/numpy/numpy_ufunc_hyperbolic.asp",
     "https://www.w3schools.com/python/numpy/numpy_ufunc_set_operations.asp",
+    
     "https://en.cppreference.com/w/cpp/language/basic_concepts",
     "https://en.cppreference.com/w/cpp/language/declarations",
     "https://en.cppreference.com/w/cpp/language/function#Function_definition",
@@ -669,6 +673,7 @@
     "https://en.cppreference.com/w/cpp/language/coroutines",
     "https://en.cppreference.com/w/cpp/language/variadic_arguments",
     "https://en.cppreference.com/w/cpp/language/parameter_pack",
+    
     "https://en.wikipedia.org/wiki/Main_Page",
     "https://de.wikipedia.org/wiki/Wikipedia:Hauptseite",
     "https://en.wikipedia.org/wiki/Wikipedia",
@@ -703,10 +708,20 @@
     "https://en.wikipedia.org/wiki/Greek_language",
     "https://en.wikipedia.org/wiki/Cyprus",
     "https://en.wikipedia.org/wiki/Quantification_(science)",
-    "https://www.mindgeek.com/",
-    "https://www.mindgeek.com/about/",
-    "https://www.mindgeek.com/services/",
-    "https://www.mindgeek.com/tech/",
-    "https://www.mindgeek.com/legal/privacy"
+    
+    "https://www.intel.com/content/www/us/en/products/sku/134886/intel-core-i39300-processor-8m-cache-up-to-4-30-ghz/specifications.html",
+    "https://www.intel.com/content/www/us/en/products/sku/126689/intel-core-i38350k-processor-8m-cache-4-00-ghz/specifications.html",
+    "https://www.intel.com/content/www/us/en/products/sku/97527/intel-core-i37350k-processor-4m-cache-4-20-ghz/specifications.html",
+    "https://www.intel.com/content/www/us/en/products/sku/90731/intel-core-i36300-processor-4m-cache-3-80-ghz/specifications.html",
+    "https://www.intel.com/content/www/us/en/products/sku/90729/intel-core-i36100-processor-3m-cache-3-70-ghz/specifications.html",
+    "https://www.intel.com/content/www/us/en/products/sku/84695/intel-core-i35005u-processor-3m-cache-2-00-ghz/specifications.html",
+    "https://www.intel.com/content/www/us/en/products/sku/46472/intel-core-i3530-processor-4m-cache-2-93-ghz/specifications.html",
+    "https://www.intel.com/content/www/us/en/products/sku/77480/intel-core-i34130-processor-3m-cache-3-40-ghz/specifications.html",
+    "https://www.intel.com/content/www/us/en/products/sku/77488/intel-core-i34160-processor-3m-cache-3-60-ghz/specifications.html",
+    "https://www.intel.com/content/www/us/en/products/sku/65693/intel-core-i33220-processor-3m-cache-3-30-ghz/specifications.html",
+    "https://www.intel.com/content/www/us/en/products/sku/65690/intel-core-i33240-processor-3m-cache-3-40-ghz/specifications.html",
+    "https://www.intel.com/content/www/us/en/products/sku/53426/intel-core-i32120-processor-3m-cache-3-30-ghz/specifications.html",
+    "https://www.intel.com/content/www/us/en/products/sku/52220/intel-core-i32310m-processor-3m-cache-2-10-ghz/specifications.html",
+    "https://www.intel.com/content/www/us/en/products/sku/53438/intel-core-i32350m-processor-3m-cache-2-30-ghz/specifications.html",
   ]
 }
